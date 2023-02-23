@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @HutchesonJoe
+- 👋 Hi, I’m @HutchesonJoe, but you can call me Hutch.
 - 👀 I’m interested in web development, education, public speaking, theatre, fitness, and house plants.
-- 🌱 I’m currently learning the ins and outs of tech, and getting better at React.js and Ruby on Rails
+- 👨🏻‍🏫 I’m currently teaching Python, API Development with Python, Ansible, and more...
+- 💻 I also progam in JavaScript, React, Ruby, Ruby on Rails, and soon GO!
 - 📫 How to reach me => joehutcheson@gmail.com
 
 <!---
